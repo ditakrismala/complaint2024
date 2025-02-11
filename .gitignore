@@ -1,0 +1,12 @@
+AppData/
+OneDrive/
+Documents/
+Pictures/
+
+*.log
+*.bak
+*.swp
+*.tmp
+*.dat
+*.ini
+
